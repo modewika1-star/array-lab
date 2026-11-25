@@ -1,6 +1,8 @@
 <div align="center">
 
-# 🧠 JavaScript Logic & Array Exercises
+# ArrayLab | JavaScript Logic & Array Exercises
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open_Project-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://javascript-array-playground-2-mjs.vercel.app/)
 
 ### Small challenges for practicing problem solving with JavaScript.
 
